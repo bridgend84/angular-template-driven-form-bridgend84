@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-template-driven-form-bridgend84';
+  title = 'Template-driven Form';
 }
